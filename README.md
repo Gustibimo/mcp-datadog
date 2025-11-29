@@ -1,4 +1,4 @@
-# Datadog MCP Server
+# Datadog MCP Server - Fork from winor30/mcp-server-datadog, enhanced with custom tools
 
 > **DISCLAIMER**: This is a community-maintained project and is not officially affiliated with, endorsed by, or supported by Datadog, Inc. This MCP server utilizes the Datadog API but is developed independently as part of the [Model Context Protocol](https://github.com/modelcontextprotocol/servers) ecosystem.
 
