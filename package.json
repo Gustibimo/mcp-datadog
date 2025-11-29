@@ -8,7 +8,7 @@
   },
   "type": "module",
   "bin": {
-    "mcp-server-datadog": "./build/index.js"
+    "mcp-datadog": "./build/index.js"
   },
   "main": "build/index.js",
   "module": "build/index.js",
